@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>Jajanpedia</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -27,7 +27,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
     <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
     <div class="w3-right w3-padding-16">Mail</div>
-    <div class="w3-center w3-padding-16">My Food</div>
+    <div class="w3-center w3-padding-16">Jajanpedia</div>
   </div>
 </div>
 
@@ -99,7 +99,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- About Section -->
   <div class="w3-container w3-padding-32 w3-center">
     <h3>About Me, The Food Man</h3><br>
-    <img src="/w3images/chef.jpg" alt="Me" class="w3-image" style="display:block;margin:auto" width="800" height="533">
+    <img src="../img/about me.jpg" alt="Me" class="w3-image" style="display:block;margin:auto">
     <div class="w3-padding-32">
       <h4><b>Jajanpedia</b></h4>
       <h6><i>With Passion For Real, Good Food</i></h6>
