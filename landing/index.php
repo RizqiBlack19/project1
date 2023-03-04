@@ -37,22 +37,22 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
-      <img src="/img/winko.jpg" alt="Winko" style="width:100%">
+      <img src="../img/wingko.jpg" alt="Wingko" style="width:100%">
       <h3>Kue manis berwarna putih yang berbentuk kotak</h3>
       <p>Jajanan oleh-oleh khas Semarang ini terbuat dari bahan bahan seperti kelapa parut, gula pasir, tepung ketan putih, santan, telur ayam, dan daun pandan.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/putu.jpg" alt="Putu" style="width:100%">
+      <img src="../img/putu.jpg" alt="Putu" style="width:100%">
       <h3>Kue tradisional isian gula jawa.</h3>
       <p>Kue tradisional Jawa yang berisi gula merah, dibalut dengan parutan kelapa dan tepung beras butiran kasar. Yang dikukus dan diletakkan di dalam tabung bambu yang dipadatkan.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/gethuk.jpg" alt="Gethuk" style="width:100%">
+      <img src="../img/gethuk.jpg" alt="Gethuk" style="width:100%">
       <h3>Makanan pokok pengganti beras jaman dahulu</h3>
       <p>Makanan ringan yang terbuat dari singkong pohon atau singkong. Yang dimasak dengan cara direbus, ditumbuk dan diberi pemanis gula serta ditaburi parutan kelapa.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/sus.jpg" alt="Kue Sus" style="width:100%">
+      <img src="../img/sus.jpg" alt="Kue Sus" style="width:100%">
       <h3>Kue bundar dengan rongga berisi fla</h3>
       <p>Kue yang dibuat dengan menambhakan tepung terigu ke dalam campuran air yang dimasak bersama margin dan ditambahkan dengan telur ayam.</p>
     </div>
@@ -61,22 +61,22 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- Second Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center">
     <div class="w3-quarter">
-      <img src="/img/lumpur.jpg" alt="Kue Lumpur" style="width:100%">
+      <img src="../img/lumpur.jpg" alt="Kue Lumpur" style="width:100%">
       <h3>Kue lembut dengan topping kismis</h3>
       <p>Kue basah tradisional yang terbuat dari bahan utama santan, kentang, tepung terigu, dan telur dengan pewangi yang digunakan vanila serta topping kismis atau kelapa muda iris.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/jemblem.jpg" alt="Jemblem" style="width:100%">
+      <img src="../img/jemblem.jpg" alt="Jemblem" style="width:100%">
       <h3>Gorengan manis dari singkong</h3>
       <p>Gorengan berwarna coklat yang berasal dari adonan singkong basah yang dihaluskan berbentuk bulat besar dan berisi gula merah. Kemudian digoreng hingga berwarna kecoklatan</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/klepon.jpg" alt="Klepon" style="width:100%">
+      <img src="../img/klepon.jpg" alt="Klepon" style="width:100%">
       <h3>Bola bola warna warni dengan isian gula merah</h3>
       <p>Kue tradisional yang terbuat dari campuran ketela dengan tepung beras ketan. Dibentuk menjadi bola bola kecil dengan isian gula merah dan direbus. Serta baluran parutan kelapa untuk klepon yang sudah masak</p>
     </div>
     <div class="w3-quarter">
-      <img src="/img/bika ambon.jpg" alt="Bika Ambon" style="width:100%">
+      <img src="../img/bika ambon.jpg" alt="Bika Ambon" style="width:100%">
       <h3>Kue basah dengan sensasi aroma daun jeruk</h3>
       <p>Kue berwarna kuning memiliki jaring jaring pada bagian dalamnya terbuat dari tepung tapioka, telur, gula dan santan</p>
     </div>
