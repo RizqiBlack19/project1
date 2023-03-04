@@ -102,9 +102,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <h3>About Me, The Food Man</h3><br>
     <img src="/w3images/chef.jpg" alt="Me" class="w3-image" style="display:block;margin:auto" width="800" height="533">
     <div class="w3-padding-32">
-      <h4><b>I am Who I Am!</b></h4>
+      <h4><b>Jajanpedia</b></h4>
       <h6><i>With Passion For Real, Good Food</i></h6>
-      <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+      <p>Selamat datang di Jajanpedia! Di sini, kami akan memperkenalkan berbagai macam jajanan pasar yang ada di Indonesia dan memberikan informasi lengkap tentang makanan tersebut. Jajanpedia merupakan tempat yang tepat bagi Anda yang suka mencari dan mencicipi jajanan pasar yang unik dan lezat.</p>
+      <p>Di Jajanpedia, Anda akan menemukan banyak informasi tentang jajanan pasar, termasuk sejarah, asal-usul, dan cara membuatnya. Kami juga akan membagikan resep-resep jajanan pasar yang bisa Anda coba buat sendiri di rumah.</p>
+      <p>Selain itu, kami juga akan memberikan informasi tentang tempat-tempat terbaik untuk menemukan jajanan pasar di Indonesia. Kami akan memberikan daftar pasar tradisional dan toko-toko makanan yang menjual jajanan pasar terbaik, sehingga Anda bisa mencoba mencicipi dan membeli jajanan pasar yang Anda sukai.</p>
+      <p>Jajanpedia juga akan menampilkan ulasan tentang jajanan pasar dari berbagai daerah di Indonesia. Kami akan membahas tentang jajanan pasar yang khas dari setiap daerah, seperti jajanan pasar dari Jawa, Sumatra, Kalimantan, Sulawesi, dan Papua. Dengan demikian, Anda bisa mengetahui lebih banyak tentang jajanan pasar yang ada di Indonesia dan menikmati keanekaragaman kuliner Indonesia.</p>
+      <p>Jadi, itulah pengenalan singkat tentang Jajanpedia. Terima kasih sudah berkunjung dan selamat menikmati jajanan pasar yang lezat!</p>
+
     </div>
   </div>
   <hr>
