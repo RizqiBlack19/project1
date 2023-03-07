@@ -48,7 +48,40 @@
 
 	<!-- !PAGE CONTENT! -->
 	<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+		 <!-- Slideshow container -->
+		<div class="slideshow-container">
 
+		<!-- Full-width images with number and caption text -->
+		<div class="mySlides fade">
+			<div class="numbertext">1 / 3</div>
+			<img src="img/slide1.jpg" style="display:block;margin:auto">
+			<div class="text">Caption Text</div>
+		</div>
+
+		<div class="mySlides fade">
+			<div class="numbertext">2 / 3</div>
+			<img src="img/slide2.jpg" style="display:block;margin:auto">
+			<div class="text">Caption Two</div>
+		</div>
+
+		<div class="mySlides fade">
+			<div class="numbertext">3 / 3</div>
+			<img src="img/slide3.jpg" style="display:block;margin:auto">
+			<div class="text">Caption Three</div>
+		</div>
+
+		<!-- Next and previous buttons -->
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+
+		<!-- The dots/circles -->
+		<div style="text-align:center">
+		<span class="dot" onclick="currentSlide(1)"></span>
+		<span class="dot" onclick="currentSlide(2)"></span>
+		<span class="dot" onclick="currentSlide(3)"></span>
+		</div> 
 		<!-- First Photo Grid-->
 		<div class="w3-row-padding w3-padding-16 w3-center" id="food">
 			<div class="w3-quarter">
@@ -206,6 +239,22 @@
 	function w3_close() {
 		document.getElementById("mySidebar").style.display = "none";
 	}
+
+	let slideIndex = 0;
+	showSlides();
+
+	function showSlides() {
+	let i;
+	let slides = document.getElementsByClassName("mySlides");
+	for (i = 0; i < slides.length; i++) {
+		slides[i].style.display = "none";
+	}
+	slideIndex++;
+	if (slideIndex > slides.length) {slideIndex = 1}
+	slides[slideIndex-1].style.display = "block";
+	setTimeout(showSlides, 2000); // Change image every 2 seconds
+	} 
+	
 	</script>
 
 </body>
